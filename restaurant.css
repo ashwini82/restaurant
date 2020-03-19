@@ -1,0 +1,28 @@
+html{
+	margin: 30px;
+
+}
+nav li{
+	display: inline;
+	margin-right: 50px;
+
+}
+nav a:hover{
+	text-decoration: underline;
+	color: red;
+}
+h1{
+	text-decoration: underline;
+	color: blue;
+}
+li{
+   
+	font-style: bold;
+	color: red;
+	font-size:20px
+
+}
+h2{
+	font: bold;
+	color: red
+}
